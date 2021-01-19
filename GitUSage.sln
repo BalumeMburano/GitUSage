@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitUSage", "GitUSage.csproj", "{ADDB8929-30A8-4B17-87F8-30E3D90D666C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDB8929-30A8-4B17-87F8-30E3D90D666C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDB8929-30A8-4B17-87F8-30E3D90D666C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDB8929-30A8-4B17-87F8-30E3D90D666C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDB8929-30A8-4B17-87F8-30E3D90D666C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D7BFAB-B232-4D44-83C9-041F07E2E700}
+	EndGlobalSection
+EndGlobal
